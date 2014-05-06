@@ -1,6 +1,6 @@
-personal finance for normals
+Visualization Template
 ============
 
-This is a project to help normal people plan for retirement.
+This is a template for visualization on my personal site.
 
-Copyright 2013 Solomon Kahn
+Copyright 2014 Solomon Kahn
